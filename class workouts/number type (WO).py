@@ -1,0 +1,13 @@
+a=111
+print(a)
+b=1.11
+print(b)
+c=5j
+print(c)
+print(type(a))
+print(type(b))
+print(type(c))
+a=float(b)
+print(a)
+b=complex(a)
+print(b)
